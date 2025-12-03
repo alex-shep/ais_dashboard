@@ -50,7 +50,7 @@ The project consists of two main repositories:
 1. Clone both repositories:
 ```bash
 git clone https://github.com/tedtop/coast_guard_ais.git
-git clone https://github.com/tedtop/ais_dashboard.git
+git clone https://github.com/alex-shep/ais_dashboard.git
 ```
 
 2. Set up virtual environment:
