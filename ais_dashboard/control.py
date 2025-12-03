@@ -32,7 +32,7 @@ class AISRenderControl(param.Parameterized):
         self.show_progress = True
         self.progress = 0
         self.param.trigger('progress')
-        self.silent_rendering = True  # Silence normal rendering logs
+        self.silent_rendering = False  # Silence normal rendering logs
         self._append_status("Beginning rendering...")
 
         def set_progress(value):
