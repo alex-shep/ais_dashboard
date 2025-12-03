@@ -1,4 +1,5 @@
 # Morton Analytics AIS Vessel Tracking Dashboard
+<img width="1019" height="529" alt="map_render" src="https://github.com/user-attachments/assets/0a10295d-d59b-458a-bae6-3eaba2e453b1" />
 
 A web-based geospatial visualization tool for exploring maritime vessel activity using AIS (Automatic Identification System) data. This dashboard visualizes aggregated ship locations as heat maps over time, allowing analysts to observe traffic patterns, congestion, and trends across the globe.
 
